@@ -1,0 +1,17 @@
+############# 平台版本 ############
+build_commad_version=dms_v3.1_nand
+uboot_version=dms_v3.1_nand
+kernel_version=dms_v3.1_nand
+dtb_version=dms_v3.1_nand
+rootfs_version=dms_v3.1_nand
+
+admin_user=jenkins
+#admin_user=autocruis
+
+############## 用户数据(FSBLBOOT/PLBOOT/MODE)版本选择 #############
+user_binary_version=dms_v3.1_nand
+
+############### app分支选择 ###########
+app_version=master
+update_app_version=tianmai_old
+
